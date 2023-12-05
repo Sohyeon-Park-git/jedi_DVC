@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = //10.0.0.231/jedi_remote_storage
